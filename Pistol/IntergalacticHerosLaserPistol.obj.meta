@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: ca3da150cfe957c4aa0c149f9d1ff829
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun_barrel_gunMat
+    second: {fileID: 2100000, guid: 0558ffa945dc9df498b9f923d1013af7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun_front_grill_front_grill_1Mat
+    second: {fileID: 2100000, guid: 72aa08bed2f7fe9478ea7f3b2207866a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun_front_grill_front_grill_2Mat
+    second: {fileID: 2100000, guid: b85971d2ad1534544a4c02ac0610025c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun_front_grill_front_grill_3Mat
+    second: {fileID: 2100000, guid: 9ca879e32a1428a48b912bb9f613c58e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun_front_grill_front_grill_4Mat
+    second: {fileID: 2100000, guid: bf2cba2293d1e6e459fa17a369ac6188, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun_front_grill_front_grill_5Mat
+    second: {fileID: 2100000, guid: db40dc669bcf28d47bcb02ca8b907706, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun_front_grill_hole_front_grillMat
+    second: {fileID: 2100000, guid: ea7ccad8ec47ff84aa9b47f0d4d340a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun_gun_handleMat
+    second: {fileID: 2100000, guid: 5117d33e64b9fe343a1eb48ccedbceff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun_gun_muzzle_back_gun_muzzleMat
+    second: {fileID: 2100000, guid: 25b3d0e8712833a4893127b829895a72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun_gun_muzzle_gun_muzzle_fireMat
+    second: {fileID: 2100000, guid: 6eb7ba55f42a1d645acfc21b31dbff3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun_gun_muzzle_gun_muzzle_frontMat
+    second: {fileID: 2100000, guid: 20affa3b23852cd439447b8d5bfc295b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun_gun_sigth_back_gun_sigthMat
+    second: {fileID: 2100000, guid: b964aaae39e9eb94a83712c375d82d0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun_gun_sigth_gun_sigth_fireMat
+    second: {fileID: 2100000, guid: 6006feadb40692546a15e2fd38027abf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun_gun_sigth_gun_sigth_frontMat
+    second: {fileID: 2100000, guid: 36fbd3f66de60ec4696722fefaa88a6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun_gun_triggerMat
+    second: {fileID: 2100000, guid: 5eb81590efa47334e9b3f060d88c2aba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun_screw_dw_lf_head_screw_dw_lfMat
+    second: {fileID: 2100000, guid: 4c8d5e40c57ca4f4dbd4171d1d415a60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun_screw_dw_lf_screw_dw_lf_holeMat
+    second: {fileID: 2100000, guid: 75867199839808f42af23663be2c45d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun_screw_dw_lf_screw_dw_lf_ringMat
+    second: {fileID: 2100000, guid: 3214e3f021b72fb43adfda58b4a5133d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun_screw_dw_rt_head_screw_dw_rtMat
+    second: {fileID: 2100000, guid: 656a97b6f879b3b4e8b915c915bb3014, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun_screw_dw_rt_screw_dw_rt_holeMat
+    second: {fileID: 2100000, guid: 7bc43005008e78349822bb3114d0b820, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun_screw_dw_rt_screw_dw_rt_ringMat
+    second: {fileID: 2100000, guid: 7943c8b12a74218429e0c87868675a40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun_screw_up_lf_head_screw_up_lfMat
+    second: {fileID: 2100000, guid: a637461d6dff71e46b607c50923d80f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun_screw_up_lf_screw_up_lf_holeMat
+    second: {fileID: 2100000, guid: 32ae21a21c283864cb03ed125df79e73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun_screw_up_lf_screw_up_lf_ringMat
+    second: {fileID: 2100000, guid: 0f94a54af45c0c141b257b358ae611d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun_screw_up_rt_head_screw_up_rtMat
+    second: {fileID: 2100000, guid: ec8945ef9e7ed4f40b8f08b5fb3b8217, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun_screw_up_rt_screw_up_rt_holeMat
+    second: {fileID: 2100000, guid: 79a92d36805568a489cd2958d90f1ff1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun_screw_up_rt_screw_up_rt_ringMat
+    second: {fileID: 2100000, guid: 38f148ea19bef4042b6b4ca65ce2194c, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
